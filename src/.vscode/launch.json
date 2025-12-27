@@ -9,7 +9,7 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "args": ["../sample_files/OR_ABI-L1b-RadC-M6C02_G16_s20211381851159_e20211381853532_c20211381853555.nc", "5/18/2021", "2", "3"]
+            "args": ["sample_files/OR_ABI-L1b-RadC-M6C02_G16_s20211381851159_e20211381853532_c20211381853555.nc", "5/18/2021", "2", "3"]
         }
     ]
 }
