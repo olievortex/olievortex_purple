@@ -1,0 +1,9 @@
+azure-servicebus~=7.13.0
+azure-identity~=1.20.0
+azure-storage-blob~=12.24.1
+Cartopy~=0.24.1
+satpy~=0.54.0
+netCDF4~=1.7.2
+azure-cosmos~=4.9.0
+azure-monitor-opentelemetry
+rioxarray~=0.18.2

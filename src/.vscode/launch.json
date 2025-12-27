@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["../sample_files/OR_ABI-L1b-RadC-M6C02_G16_s20211381851159_e20211381853532_c20211381853555.nc", "5/18/2021", "2", "3"]
+        }
+    ]
+}
